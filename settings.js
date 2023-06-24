@@ -3,7 +3,7 @@ const chalk = require("chalk");
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "917003213983, 923087880256";
+  gg = "917404854406, 5213326356169, 919466558184";
 }
 
 global.owner = gg.split(",");
